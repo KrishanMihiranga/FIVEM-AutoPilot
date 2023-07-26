@@ -9,7 +9,7 @@ description 'Auto Pilot'
 
 author 'syntaXage'
 
-version '1.12'
+version '1.0'
 
 
 client_scripts {
